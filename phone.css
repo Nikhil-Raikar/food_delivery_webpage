@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+/* navigation srction */
+#navbar{
+    flex-direction: column;
+}
+
+/* home section  */
+#home{
+    height: 739px;
+    width: 100vw;
+}
+#home::before{
+    height: 75%;
+}
+#home p{
+    font-size: 13px;
+}
+#services{
+    flex-direction: column;
+
+}
+#client img(
+    
+)
+#services .box{
+}
